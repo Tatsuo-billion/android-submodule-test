@@ -2,6 +2,7 @@ package co.billionlabs.android_submodule_test
 
 class DeviceController {
 
+    // Comment to check if project has submodule or not
     private var parameterSize = 7
     private var parameters: DoubleArray = DoubleArray(parameterSize)
 
